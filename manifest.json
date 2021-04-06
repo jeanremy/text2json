@@ -1,0 +1,7 @@
+{
+  "name": "text2json",
+  "id": "959900444171665246",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "ui": "dist/ui.html"
+}
